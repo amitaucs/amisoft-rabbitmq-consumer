@@ -5,7 +5,7 @@ package com.amisoft.config;
  */
 public class RabbitMQMessageConstant {
 
-    public final static String QUEUE_NAME = "user-email";
+    public final static String QUEUE_NAME = "user-email-queue";
 
 
 }
